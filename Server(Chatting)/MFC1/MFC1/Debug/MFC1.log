@@ -1,0 +1,4 @@
+﻿  MFC1View.cpp
+C:\Users\A-01\source\repos\MFC1\MFC1\MFC1View.cpp(178,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\A-01\source\repos\MFC1\MFC1\MFC1View.cpp(178,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MFC1.vcxproj -> C:\Users\A-01\source\repos\MFC1\Debug\MFC1.exe
